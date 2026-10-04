@@ -34,10 +34,13 @@ The **Water Intake Logger** provides a simple interface where users can:
 ### 💧 Add Water
 
 Users can click the **Add 250 ml** button to record water intake.
+<img width="995" height="924" alt="ChatGPT Image Oct 4, 2026, 11_40_58 PM" src="https://github.com/user-attachments/assets/29cdf8d0-5a9e-4336-8da3-b9cd3ebf5482" />
+
 
 Example:
 
 ```text
 0 ml → 250 ml → 500 ml → 750 ml
-<img width="995" height="924" alt="ChatGPT Image Oct 4, 2026, 11_40_58 PM" src="https://github.com/user-attachments/assets/47d1f6d6-d4d2-4c7c-a43f-288972e0274a" />
+
+
 
